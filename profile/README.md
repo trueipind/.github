@@ -21,9 +21,9 @@
 
 ### Free guides
 
-[static-ip-guides](https://github.com/trueipind/static-ip-guides) has 28 practical guides on IP whitelisting and proxy setup. They cover:
+[static-ip-guides](https://github.com/trueipind/static-ip-guides) has 33 practical guides on IP whitelisting and proxy setup. They cover:
 - **Languages and platforms:** Python, Node, Java, Go, .NET, PHP, Docker, Kubernetes and serverless.
-- **Indian brokers:** Zerodha Kite, Upstox, Angel One SmartAPI, Fyers and Flattrade.
+- **Indian brokers:** Zerodha Kite, Upstox, Angel One SmartAPI, Dhan, Kotak Neo, ICICI Breeze, Fyers, Shoonya, Samco and Flattrade.
 - **Other platforms:** crypto exchanges, payout APIs, GST e-invoice and SMPP.
 
 They work with any proxy or static IP, not just ours.
